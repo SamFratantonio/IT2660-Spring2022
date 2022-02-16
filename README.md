@@ -1,1 +1,1 @@
-# IT2660-Spring2022
+IT2660-Spring2022 Class Assignments
